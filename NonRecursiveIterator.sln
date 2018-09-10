@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonRecursiveIterator", "NonRecursiveIterator\NonRecursiveIterator.csproj", "{28BE9441-ED3A-49C4-8F78-7A342BFD7449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProofOfConcept", "ProofOfConcept\ProofOfConcept.csproj", "{DB24C91E-5E6A-4E77-9AC5-20BC76A1B70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Tester", "POC_Tester\POC_Tester.csproj", "{188F5D5F-8AAF-4CF2-95C7-5707C8AA230F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45450FF3-52F5-4E8B-8B56-6B22BFF0B422}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		NonRecursiveIterator.vsmdi = NonRecursiveIterator.vsmdi
+		NonRecursiveIterator1.vsmdi = NonRecursiveIterator1.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Version2", "Version2\Version2.csproj", "{E913A6DB-E2EE-4C05-A093-7899AC8CC38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Version2Test", "Version2Test\Version2Test.csproj", "{D34E3474-84D4-4C8F-B7C2-863C0A142426}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = NonRecursiveIterator1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BE9441-ED3A-49C4-8F78-7A342BFD7449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BE9441-ED3A-49C4-8F78-7A342BFD7449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BE9441-ED3A-49C4-8F78-7A342BFD7449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BE9441-ED3A-49C4-8F78-7A342BFD7449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB24C91E-5E6A-4E77-9AC5-20BC76A1B70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB24C91E-5E6A-4E77-9AC5-20BC76A1B70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB24C91E-5E6A-4E77-9AC5-20BC76A1B70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB24C91E-5E6A-4E77-9AC5-20BC76A1B70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188F5D5F-8AAF-4CF2-95C7-5707C8AA230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188F5D5F-8AAF-4CF2-95C7-5707C8AA230F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188F5D5F-8AAF-4CF2-95C7-5707C8AA230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188F5D5F-8AAF-4CF2-95C7-5707C8AA230F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E913A6DB-E2EE-4C05-A093-7899AC8CC38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E913A6DB-E2EE-4C05-A093-7899AC8CC38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E913A6DB-E2EE-4C05-A093-7899AC8CC38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E913A6DB-E2EE-4C05-A093-7899AC8CC38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E3474-84D4-4C8F-B7C2-863C0A142426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E3474-84D4-4C8F-B7C2-863C0A142426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E3474-84D4-4C8F-B7C2-863C0A142426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E3474-84D4-4C8F-B7C2-863C0A142426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
