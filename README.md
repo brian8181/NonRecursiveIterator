@@ -1,3 +1,3 @@
 # NonRecursiveIterator
 
-a depth first iterator, instead of suing recursive function calls
+a depth first iterator, instead of using recursive function calls
